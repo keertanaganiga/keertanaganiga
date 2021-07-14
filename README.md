@@ -1,9 +1,6 @@
 ### Hi there, I'm KEERTANA GANIGA 👋
 
-<!--
-**keertanaganiga/keertanaganiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 - 🤩 Personal Portfolio Website [https://keertanaganiga.github.io].
 - 🔭 I’m currently pursuing Computer Science and Engineering,
 - 🌱 I’m currently learning Machine Learning,JS,CSS,Kotlin
