@@ -11,4 +11,3 @@
 
 ------ 💜Don’t be trapped in someone else’s dream💜 -BTS
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=keertanaganiga)
